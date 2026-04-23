@@ -1,4 +1,3 @@
-# DS-05-Online-Shopping-Intention-Analysis-with-Clustering
 ---
 title: Online Shopping Intention Analysis
 emoji: 🛒
